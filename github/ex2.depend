@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644915214 source:c:\users\maxwh\desktop\structure\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
